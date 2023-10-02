@@ -1,4 +1,4 @@
-package Lectures._05_arrays;
+package _08_arrays;
 
 import java.util.Arrays;
 

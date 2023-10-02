@@ -1,4 +1,4 @@
-package Lectures._04_functions;
+package _07_functions;
 
 public class _01_prime_number {
     public static void main(String[] args) {

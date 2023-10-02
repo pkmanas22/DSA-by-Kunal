@@ -1,4 +1,4 @@
-package Lectures._04_functions;
+package _07_functions;
 
 //to check whether a given number is an Armstrong number or not
 public class _02_armstrong_number {

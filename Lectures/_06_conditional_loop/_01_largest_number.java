@@ -1,4 +1,4 @@
-package Lectures._03conditional_loop;
+package _06_conditional_loop;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Lectures._04_functions;
+package _07_functions;
 
 import static java.lang.Math.pow;
 
