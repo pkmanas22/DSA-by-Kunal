@@ -1,6 +1,4 @@
-package _09_linear_search;
-
-import java.util.Arrays;
+package _13_linear_search;
 
 public class _01_search_in_array {
     public static void main(String[] args) {

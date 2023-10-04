@@ -1,4 +1,4 @@
-package _09_linear_search;
+package _13_linear_search;
 
 public class _06_maximumIn_2DArray {
     public static void main(String[] args) {

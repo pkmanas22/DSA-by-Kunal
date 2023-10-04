@@ -1,4 +1,4 @@
-package _06_conditional_loop;
+package _09_conditional_loop;
 
 public class _05_reverse_number {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package _08_arrays;
-
-import java.util.Arrays;
+package _12_arrays;
 
 public class _02_maximum_value_array {
     public static void main(String[] args) {

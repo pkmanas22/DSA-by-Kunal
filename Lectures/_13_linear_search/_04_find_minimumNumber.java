@@ -1,4 +1,4 @@
-package _09_linear_search;
+package _13_linear_search;
 
 public class _04_find_minimumNumber {
     public static void main(String[] args) {

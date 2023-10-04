@@ -1,4 +1,4 @@
-package _07_functions;
+package _11_functions;
 
 public class _01_prime_number {
     public static void main(String[] args) {
